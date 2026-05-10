@@ -24,7 +24,7 @@
 # 开发思路：迭代开发。
 先跑通各个too，然后组合实现后台流式输出，最后结合前端实现前端流式输出。
 
-#效果展示：
+# 效果展示：
 <img width="1046" height="438" alt="微信图片_20260509184810_554_28" src="https://github.com/user-attachments/assets/9e8cbf49-825e-42d0-9268-7ef3bf332854" />
 
 <img width="954" height="498" alt="微信图片_20260509184824_555_28" src="https://github.com/user-attachments/assets/c08e3f57-ca16-4689-993f-e4c96907d2d5" />
